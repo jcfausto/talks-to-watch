@@ -69,7 +69,7 @@
 * ~~SXSW 2012 - Andy Hume - CSS for Grownups~~
 * ~~Front-end Architecture - Harry Roberts - Big CSS~~
 * ~~SassConf - Hampton Catlin - The Front End Revolution~~
-* ~~TEDxCSU - Josh Kaufman - How to learn anything in 20h~~
+* ~~[TEDxCSU - Josh Kaufman - How to learn anything in 20h](https://www.youtube.com/watch?v=5MgBikgcWnY)~~
 * ~~DAFED - Harry Roberts - Managing CSS Projects with ITCSS~~
 * ~~PDX Sass September - Raising a Banner for Front-end Architecture~~
 * ~~Fluent 2013 - Paul Irish - JavaScript Development Workflow of 2013~~
