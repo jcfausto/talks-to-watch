@@ -1,3 +1,5 @@
+(This list is a fork of [filipesf´s](https://github.com/filipesf/talks-to-watch) one)
+
 # List of talks to watch this year
 
 2015 will be the year I'll be too focused on my job, doing stuff and studying a lot.
